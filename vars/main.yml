@@ -1,0 +1,12 @@
+---
+ 
+ssh_key: ansible
+instance_type: t2.micro 
+image_id: ami-09988af04120b3591 
+region: us-east-1
+
+tag_name: ansible
+tag_ambiente: dev
+tag_owner: bima
+
+...
